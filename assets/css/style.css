@@ -6,34 +6,11 @@
 /**
  * copyright 2022 @codewithsadee
  */
-.game{
-  .game {
-    box-shadow: 11px 7px 4px -1px #899599;
-    background-color:#ededed;
-    border-radius:24px;
-    border:2px solid #d6bcd6;
-    display:inline-block;
-    cursor:pointer;
-    color:#3a8a9e;
-    font-family:Arial;
-    font-size:16px;
-    font-weight:bold;
-    padding:11px 29px;
-    text-decoration:none;
-    text-shadow:1px 2px 3px #e1e2ed;
-  }
-  .games:hover {
-    background-color:#bab1ba;
-  }
-  .games:active {
-    position:relative;
-    top:1px;
-  }
-}
+
 .design{
   color: azure;
-  size: 50%;
-  font-family: 'Lugrasimo', cursive;
+  
+  font-family: 'Dancing Script', cursive;
 }
 
 
